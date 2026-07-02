@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.11.0-rc2 - unreleased
+## 0.11.0 (2026-07-02)
 
 - add `msrv` job to CI, pin `1.88` as MSRV - [#162]
 - update `sqlx` from `0.6` to `0.8` - [#162]
